@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.local
+*.local.*
+result/
+results_safe/
+logs/
+paper/generated/reproduced_claims.json
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
